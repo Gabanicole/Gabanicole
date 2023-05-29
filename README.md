@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicole
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently I am growing.
+- 🌱  currently I am growing.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me www.linkedin.com/in/munezero-nicole-603a5b19
 
