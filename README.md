@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages
 - 🌱  currently I am growing.
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me www.linkedin.com/in/munezero-nicole-603a5b19
+- 📫 How to reach me www.linkedin.com/in/munezero-nicole
 
 <!---
 Gabanicole/Gabanicole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
